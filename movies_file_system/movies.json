@@ -1,0 +1,44 @@
+[
+  {
+    "movieName": "Vikram",
+    "director": "Lokesh Kanagaraj",
+    "releaseYear": 2021,
+    "language": "Hindi",
+    "rating": 5
+  },
+  {
+    "movieName": "Irugapatru",
+    "director": "Yuvaraj Dayalan",
+    "releaseYear": 2023,
+    "language": "Tamil",
+    "rating": 4.5
+  },
+  {
+    "movieName": "Jailer",
+    "director": "Nelson DilipKumar",
+    "releaseYear": 2023,
+    "language": "Tamil",
+    "rating": 4
+  },
+  {
+    "movieName": "Jigardhanda Double X",
+    "director": "Karthick Subburaj",
+    "releaseYear": 2023,
+    "language": "Tamil",
+    "rating": 3.6
+  },
+  {
+    "movieName": "RDX",
+    "director": "Nahas Hidayath",
+    "releaseYear": 2023,
+    "language": "Malayalam",
+    "rating": 3
+  },
+  {
+    "movieName": "LEO",
+    "director": "Lokesh Kanagaraj",
+    "releaseYear": 2023,
+    "language": "Tamil",
+    "rating": 3
+  }
+]
